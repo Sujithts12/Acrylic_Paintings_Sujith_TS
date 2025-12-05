@@ -106,7 +106,7 @@ A minimalistic black-and-white artwork representing harmony between opposites â€
 <h2 align="center">ðŸŽ“ Certificate of Achievement</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/IMG_20251205_174155.jpg" width="250">
+  <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_174155.jpg" width="300">
 </p>
 ---
 
