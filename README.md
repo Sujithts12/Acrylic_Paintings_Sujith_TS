@@ -38,7 +38,7 @@ Art is not my profession, but my passion something I proudly carry along with my
 <p align="center">
  Bright strokes of orange, red, yellow, and green form a modern abstract of Lord Ganesha. The fluid curves bring out energy, positivity, and divine charm.
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121734.jpg" width="100">
+<img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121734.jpg" width="250">
   <br><br> 
 
  
