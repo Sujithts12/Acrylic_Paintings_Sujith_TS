@@ -109,6 +109,34 @@ A minimalistic black-and-white artwork representing harmony between opposites �
   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_174155.jpg" width="300">
 </p>
 
+---
+
+## 💬 Comments & Feedback
+
+<p align="center">
+If you enjoyed my artwork or have feedback, feel free to share your thoughts below.  
+Your comments help me grow as an artist 🙏🎨
+</p>
+
+<!-- Giscus Comment System -->
+<script src="https://giscus.app/client.js"
+        data-repo="Sujithts12/Acrylic_Paintings_Sujith_TS"
+        data-repo-id="R_kgDOQi-ooA"
+        data-category="General"
+        data-category-id="DIC_kwDOQi-ooM4CzbvJ"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+---
+
 
 ## 🙏 Thank You
 
