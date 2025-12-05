@@ -103,7 +103,11 @@ A minimalistic black-and-white artwork representing harmony between opposites �
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121614.jpg" width="300">
 </p>
+<h2 align="center">🎓 Certificate of Achievement</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/IMG_20251205_174155.jpg" width="250">
+</p>
 ---
 
 ## 🙏 Thank You
