@@ -53,8 +53,7 @@ Art is not my profession, but my passion something I proudly carry along with my
 <p align="center">
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121658.jpg" width="300">
   <br><br>
-<p align="center">
- Joker
+<h1 align="center">Joker Sketch</h1>
 <p align="center">
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121642.jpg" width="300">
   <br><br>
