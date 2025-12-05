@@ -10,7 +10,7 @@
 <h2 align="center">🎨 Paintings</h2>
 
 <p align="center">
-    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Serenity+in+Shadows+%7C+Buddha)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Serenity+in+Shadows+%7C+Buddha)
 
 # 1️. Serenity in Shadows – Buddha
 </p>
