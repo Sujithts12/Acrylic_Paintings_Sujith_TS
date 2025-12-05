@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <span style="color:#FF5733;">🎨 Acrylic & Sketch Art Gallery by Sujith T.S 🎨</span>
+## 🎨 Acrylic & Sketch Art Gallery by Sujith T.S 🎨
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@ This collection showcases my creative exploration in:
 - Portraits conveying emotion and depth  
 - Expressive and imaginative compositions  
 
-Art is my passion and personal sanctuary — something I cherish deeply alongside my professional career as a Power BI Developer.
+Art is my passion and personal sanctuary something I cherish deeply alongside my professional career as a Power BI Developer.
 
 ---
 
