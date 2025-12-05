@@ -79,7 +79,7 @@ Art is not my profession, but my passion something I proudly carry along with my
 <p align="center">
   A minimalistic black-and-white artwork symbolizing harmony between opposites — day & night, masculine & feminine, energy & calmness.
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_1211614.jpg" width="300">
+   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121614.jpg" width="300">
   <br><br>
 
 ---
