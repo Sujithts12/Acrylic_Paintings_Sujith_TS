@@ -21,20 +21,24 @@ Art is not my profession, but my passion something I proudly carry along with my
 
 <p align="center">
   Warm golden tones merge with deep shadows to portray Buddha in a calm, meditative aura. The textured curls and glowing warmth represent inner balance beyond worldly noise.
+
   <p align="center">
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121920.jpg" width="300">
   <br><br>
+
 <h1 align="center">Sacred Reflection Of Ganesha</h1>
 <p align="center">
  A pencil sketch of Ganesha beautifully framed against lush leaves and flowers. The artwork blends devotion with nature, creating an aesthetic reflection of purity and peace.
 <p align="center">
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121716.jpg" width="300">
   <br><br>
-<h1 Colors of Auspiciousness</h1>
+
+
+<h1 align="center">Colors of Auspiciousness</h1>
 <p align="center">
-Bright strokes of orange, red, yellow, and green form a modern abstract of Lord Ganesha. The fluid curves bring out energy, positivity, and divine charm.
-   <p align="center">
-   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121734.jpg" width="500">
+ Bright strokes of orange, red, yellow, and green form a modern abstract of Lord Ganesha. The fluid curves bring out energy, positivity, and divine charm.
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121734.jpg" width="500">
   <br><br> 
  <img src="IMG_20251205_121716.jpg" width="100%">  <img src="IMG_20251205_121734.jpg" width="100%"> 
 <p align="center">
