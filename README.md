@@ -24,7 +24,7 @@ Art is not my profession, but my passion something I proudly carry along with my
   <p align="center">
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121920.jpg" width="300">
   <br><br>
-| <img src="IMG_20251205_121716.jpg" width="100%"> | <img src="IMG_20251205_121734.jpg" width="100%"> |
+ <img src="IMG_20251205_121716.jpg" width="100%">  <img src="IMG_20251205_121734.jpg" width="100%"> 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121716.jpg" width="300" style="margin-right:10px;">
   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121734.jpg" width="300">
