@@ -32,9 +32,9 @@ Art is not my profession, but my passion something I proudly carry along with my
   <br><br>
 <h1 Colors of Auspiciousness</h1>
 <p align="center">
-
+Bright strokes of orange, red, yellow, and green form a modern abstract of Lord Ganesha. The fluid curves bring out energy, positivity, and divine charm.
    <p align="center">
-   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121734.jpg" width="700">
+   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121734.jpg" width="500">
   <br><br> 
  <img src="IMG_20251205_121716.jpg" width="100%">  <img src="IMG_20251205_121734.jpg" width="100%"> 
 <p align="center">
