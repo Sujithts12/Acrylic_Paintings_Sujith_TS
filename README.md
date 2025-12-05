@@ -1,17 +1,16 @@
-# 🎨 Sujith's Acrylic & Sketch Art Gallery
+# <h1 align="center">Acrylic Paintings – Gallery</h1>
 
 
 <p align="center">
   Welcome to my personal painting gallery a space where I, Sujith T.S, express emotion, devotion, and imagination through acrylics and pencil sketches, blending realism, expressive detail, and strong visual composition to reflect my inner world and artistic journey.
 </p>
 
-<h1 align="center">Acrylic Paintings – Gallery</h1>
+
 
 <h2 align="center">🎨 Paintings</h2>
 
 <p align="center">
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Serenity%20in%20Shadows%20%7C%20Buddha)
-
+ 
 # 1️. Serenity in Shadows – Buddha
 </p>
   <p align="center">
