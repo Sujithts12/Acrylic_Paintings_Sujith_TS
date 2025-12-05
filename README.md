@@ -34,7 +34,7 @@ Art is not my profession, but my passion something I proudly carry along with my
   <br><br>
 
 
-<h1 align="center">Colors of Auspiciousness</h1>
+<h1 align="center">Vibrant Ganesha</h1>
 <p align="center">
  Bright strokes of orange, red, yellow, and green form a modern abstract of Lord Ganesha. The fluid curves bring out energy, positivity, and divine charm.
 <p align="center">
