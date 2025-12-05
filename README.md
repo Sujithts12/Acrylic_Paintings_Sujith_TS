@@ -33,15 +33,22 @@ Art is not my profession, but my passion something I proudly carry along with my
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121716.jpg" width="300">
   <br><br>
 
-
-<h1 align="center">Vibrant Ganesha</h1>
 <p align="center">
  Bright strokes of orange, red, yellow, and green form a modern abstract of Lord Ganesha. The fluid curves bring out energy, positivity, and divine charm.
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121734.jpg" width="250">
   <br><br> 
 
- 
+<h1 align="center">The Melody of Love</h1>
+
+<p align="center">
+  A monochrome sketch of Radha and Krishna, highlighted with gentle colors to represent purity, devotion, and eternal love.
+
+  <p align="center">
+   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_103627.jpg" width="300">
+  <br><br>
+
+
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_103627.jpg" width="300">
   <br><br>
   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121614.jpg" width="300">
