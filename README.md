@@ -4,7 +4,7 @@ Welcome to my personal painting gallery — a creative space where I express emo
 Art is my hobby, my peaceful zone, and a reflection of my inner world.
 
 ---
-# Acrylic Paintings – Gallery
+
 
 <h1 align="center">Acrylic Paintings – Gallery</h1>
 
