@@ -1,7 +1,7 @@
 
 <h1 align="center">
-## 🎨 Acrylic & Sketch Art Gallery by Sujith T.S 🎨
-</h1>
+ 🎨 Acrylic & Sketch Art Gallery by Sujith T.S 🎨
+</p>
 
 <p align="center">
 Welcome to my personal painting gallery — a creative space where I, <strong>Sujith T.S</strong>, express emotion, devotion, contrast, and imagination through acrylics and pencil sketches. Each piece blends realism, expressive detail, and strong visual composition, reflecting my inner world and ongoing journey as a self-taught artist.
