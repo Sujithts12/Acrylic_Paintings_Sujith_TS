@@ -43,23 +43,24 @@ Art is not my profession, but my passion something I proudly carry along with my
 
 <p align="center">
   A monochrome sketch of Radha and Krishna, highlighted with gentle colors to represent purity, devotion, and eternal love.
-
-  <p align="center">
+<p align="center">
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_103627.jpg" width="300">
   <br><br>
 
+<h1 align="center">Why So Serious?</h1>
+<p align="center">
+  A striking combination of dark shadows and a sharp red smile portrays the Joker’s chaotic personality. The rough brushwork amplifies his fierce intensity.
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121658.jpg" width="400">
+  <br><br>
+<p align="center">
+ Joker
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121642.jpg" width="250">
+  <br><br>
 
-   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_103627.jpg" width="300">
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121614.jpg" width="300">
-  <br><br>
 
   
-  <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121642.jpg" width="300">
-  <br><br>
-
-  <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121658.jpg" width="300">
-  <br><br>
 
   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121716.jpg" width="300">
   <br><br>
