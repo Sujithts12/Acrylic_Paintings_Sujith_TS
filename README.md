@@ -108,7 +108,7 @@ A minimalistic black-and-white artwork representing harmony between opposites â€
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_174155.jpg" width="300">
 </p>
----
+
 
 ## ğŸ™ Thank You
 
