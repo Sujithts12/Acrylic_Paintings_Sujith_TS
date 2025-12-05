@@ -51,12 +51,12 @@ Art is not my profession, but my passion something I proudly carry along with my
 <p align="center">
   A striking combination of dark shadows and a sharp red smile portrays the Joker’s chaotic personality. The rough brushwork amplifies his fierce intensity.
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121658.jpg" width="400">
+   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121658.jpg" width="300">
   <br><br>
 <p align="center">
  Joker
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121642.jpg" width="400">
+   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121642.jpg" width="300">
   <br><br>
 
 
