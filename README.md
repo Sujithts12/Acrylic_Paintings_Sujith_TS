@@ -52,7 +52,7 @@ A monochrome sketch of Radha and Krishna, highlighted with delicate color accent
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_103627.jpg" width="300">
+<img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_174137.jpg" width="300">
 </p>
 
 ---
