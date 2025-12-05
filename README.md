@@ -4,6 +4,23 @@ Welcome to my personal painting gallery — a creative space where I express emo
 Art is my hobby, my peaceful zone, and a reflection of my inner world.
 
 ---
+# Acrylic Paintings – Gallery
+
+## 🎨 Paintings
+
+![Painting 1](https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121614.jpg)
+
+![Painting 2](https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121642.jpg)
+
+![Painting 3](https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121658.jpg)
+
+![Painting 4](https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121716.jpg)
+
+![Painting 5](https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121734.jpg)
+
+![Painting 6](https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121810.jpg)
+
+![Painting 7](https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121905.jpg)
 
 ## 🖼️ Featured Paintings
 
