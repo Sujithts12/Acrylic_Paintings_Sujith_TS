@@ -14,7 +14,7 @@ This painting section showcases my creative journey through:
 - Portraits filled with emotion  
 - Symbolic and expressive designs
 
-Art is not my profession, but my passion — something I proudly carry along with my career as a Power BI Developer.
+Art is not my profession, but my passion something I proudly carry along with my career as a Power BI Developer.
 
 ---
 
