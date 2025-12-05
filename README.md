@@ -3,11 +3,21 @@
 
 <p align="center">
   Welcome to my personal painting gallery a space where I, Sujith T.S, express emotion, devotion, and imagination through acrylics and pencil sketches, blending realism, expressive detail, and strong visual composition to reflect my inner world and artistic journey.
-</p>
 
-<h2 align="center">🎨 Paintings</h2>
+## 🧾 About This Gallery
 
-<p align="center">
+This painting section showcases my creative journey through:
+
+- Acrylic artworks  
+- Graphite and charcoal sketches  
+- Spiritual & abstract themes  
+- Portraits filled with emotion  
+- Symbolic and expressive designs
+
+Art is not my profession, but my passion — something I proudly carry along with my career as a Power BI Developer.
+
+---
+
  
 # 1️. Serenity in Shadows – Buddha
 </p>
@@ -89,19 +99,6 @@ A minimalistic black-and-white artwork symbolizing harmony between opposites —
 
 ---
 
-## 🧾 About This Gallery
-
-This painting section showcases my creative journey through:
-
-- Acrylic artworks  
-- Graphite and charcoal sketches  
-- Spiritual & abstract themes  
-- Portraits filled with emotion  
-- Symbolic and expressive designs
-
-Art is not my profession, but my passion — something I proudly carry along with my career as a Power BI Developer.
-
----
 
 ## 📂 How to use
 
