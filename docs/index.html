@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Sujith T.S Acrylic & Sketch Art Gallery</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto&display=swap');
+
+  body {
+    background-color: #121212;
+    color: #eee;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  header {
+    text-align: center;
+    padding: 2rem 1rem 1rem 1rem;
+    border-bottom: 1px solid #333;
+  }
+
+  header h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #00ffff;
+    margin-bottom: 0.2rem;
+  }
+
+  header p {
+    max-width: 600px;
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 1.1rem;
+    color: #ccc;
+  }
+
+  main {
+    flex: 1;
+    padding: 2rem 1rem;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(280px,1fr));
+    gap: 1.5rem;
+  }
+
+  .art-card {
+    background: #1e1e1e;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 0 15px rgba(0,255,255,0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.2s ease;
+  }
+
+  .art-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 25px #00ffff;
+  }
+
+  .art-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+  }
+
+  .art-title {
+    font-weight: 700;
+    font-size: 1.3rem;
+    color: #00ffff;
+    margin-bottom: 0.5rem;
+    text-align: center;
+  }
+
+  .art-description {
+    font-weight: 400;
+    font-size: 1rem;
+    color: #bbb;
+    text-align: center;
+    flex-grow: 1;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid #333;
+    margin: 3rem 0 2rem 0;
+  }
+
+  /* Comment Section */
+  #comments {
+    max-width: 900px;
+    margin: 0 auto 4rem auto;
+    padding: 1rem;
+    background-color: #1a1a1a;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0,255,255,0.15);
+  }
+
+  #comments h2 {
+    color: #00ffff;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  #comments p {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #bbb;
+  }
+
+  footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: #555;
+    border-top: 1px solid #333;
+  }
+
+  @media (max-width: 600px) {
+    header h1 {
+      font-size: 2rem;
+    }
+    .art-card {
+      padding: 0.75rem;
+    }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Sujith T.S Acrylic & Sketch Art Gallery</h1>
+  <p>A creative space where emotions, devotion, and imagination come alive through acrylic paintings and pencil sketches.</p>
+</header>
+
+<main>
+  <section class="gallery">
+
+    <article class="art-card">
+      <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121920.jpg" alt="Serenity in Shadows Buddha Painting" />
+      <h3 class="art-title">Serenity in Shadows Buddha Painting</h3>
+      <p class="art-description">Warm golden tones merge with deep shadows to portray Buddha in a calm, meditative aura.</p>
+    </article>
+
+    <article class="art-card">
+      <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121716.jpg" alt="Sacred Reflection Of Ganesha" />
+      <h3 class="art-title">Sacred Reflection Of Ganesha</h3>
+      <p class="art-description">A pencil sketch of Ganesha framed against lush leaves and flowers, blending devotion with nature.</p>
+    </article>
+
+    <article class="art-card">
+      <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121734.jpg" alt="Modern Abstract Lord Ganesha" />
+      <h3 class="art-title">Modern Abstract Lord Ganesha</h3>
+      <p class="art-description">Bright strokes of orange, red, yellow, and green form a modern abstract of Lord Ganesha.</p>
+    </article>
+
+    <article class="art-card">
+      <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_103627.jpg" alt="The Melody of Love" />
+      <h3 class="art-title">The Melody of Love</h3>
+      <p class="art-description">A monochrome sketch of Radha and Krishna, highlighted with gentle colors to represent purity and devotion.</p>
+    </article>
+
+    <article class="art-card">
+      <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121810.jpg" alt="Queen Of Mysterious On Paper" />
+      <h3 class="art-title">Queen Of Mysterious On Paper</h3>
+      <p class="art-description">This artwork portrays Nagavalli the graceful dancer.</p>
+    </article>
+
+    <article class="art-card">
+      <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121658.jpg" alt="Why So Serious?" />
+      <h3 class="art-title">Why So Serious?</h3>
+      <p class="art-description">A striking combination of dark shadows and a sharp red smile portrays the Joker’s chaotic personality.</p>
+    </article>
+
+    <article class="art-card">
+      <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121642.jpg" alt="Why So Serious? Closeup" />
+      <h3 class="art-title">Why So Serious? Closeup</h3>
+      <p class="art-description">The rough brushwork amplifies his fierce intensity.</p>
+    </article>
+
+    <article class="art-card">
+      <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121905.jpg" alt="Tranquil Adiyogi Shiva" />
+      <h3 class="art-title">Tranquil Adiyogi Shiva</h3>
+      <p class="art-description">A blend of saffron and indigo paints a serene and divine Adiyogi, symbolizing strength and calm.</p>
+    </article>
+
+    <article class="art-card">
+      <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121614.jpg" alt="Eternal Duality" />
+      <h3 class="art-title">Eternal Duality</h3>
+      <p class="art-description">A minimalistic black-and-white artwork symbolizing harmony between opposites.</p>
+    </article>
+
+  </section>
+
+  <hr />
+
+  <section id="comments">
+    <h2>💬 Comments & Feedback</h2>
+    <p>If you enjoyed my artwork or have feedback, feel free to share your thoughts below. Your comments help me grow as an artist 🙏🎨</p>
+
+    <!-- Giscus Comment System -->
+    <script src="https://giscus.app/client.js"
+            data-repo="Sujithts12/Acrylic_Paintings_Sujith_TS"
+            data-repo-id="R_kgDOQi-ooA"
+            data-category="General"
+            data-category-id="DIC_kwDOQi-ooM4CzbvJ"
+            data-mapping="pathname"
+            data-strict="0"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="bottom"
+            data-theme="dark"
+            data-lang="en"
+            crossorigin="anonymous"
+            async>
+    </script>
+  </section>
+</main>
+
+<footer>
+  &copy; 2025 Sujith T.S | Self-taught Artist
+</footer>
+
+</body>
+</html>
