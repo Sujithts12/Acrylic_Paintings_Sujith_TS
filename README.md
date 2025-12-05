@@ -1,17 +1,20 @@
-# <h1 align="center">Acrylic Paintings – Gallery</h1>
+<h1 align="center">Acrylic Paintings – Gallery</h1>
 
 
 <p align="center">
   Welcome to my personal painting gallery a space where I, Sujith T.S, express emotion, devotion, and imagination through acrylics and pencil sketches, blending realism, expressive detail, and strong visual composition to reflect my inner world and artistic journey.
 </p>
 
-
-
 <h2 align="center">🎨 Paintings</h2>
 
 <p align="center">
  
 # 1️. Serenity in Shadows – Buddha
+</p>
+<p align="center">
+ 
+# Warm golden tones merge with deep shadows to portray Buddha in a calm, meditative aura. The textured curls and glowing warmth represent inner balance beyond worldly noise.
+
 </p>
   <p align="center">
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121920.jpg" width="300">
