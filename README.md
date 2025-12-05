@@ -50,8 +50,7 @@ Art is not my profession, but my passion something I proudly carry along with my
   <h1 align="center">Queen Of Mysterious On Paper</h1>
 
 <p align="center">
-  This artwork portrays Nagavalli the graceful dancer whose spirit, bound by betrayal and injustice, transforms into a haunting presence.
-Through dramatic shading and expressive eyes, the painting reflects the emotion, rage, and mystery surrounding her timeless legend.
+  This artwork portrays Nagavalli the graceful dancer.
 <p align="center">
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121810.jpg" width="400">
   <br><br>
