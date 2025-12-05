@@ -12,7 +12,8 @@
 <h2 align="center">🎨 Paintings</h2>
 
 <p align="center">
-
+-- 1️. Serenity in Shadows – Buddha
+Warm golden tones merge with deep shadows to portray Buddha in a calm, meditative aura. The textured curls and glowing warmth represent inner balance beyond worldly noise.
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121920.jpg" width="300">
   <br><br>
 
