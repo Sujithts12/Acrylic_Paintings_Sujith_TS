@@ -1,4 +1,4 @@
-<h1 align="center">Acrylic Paintings – Gallery</h1>
+<h1 align="center">Acrylic Paintings Gallery</h1>
 
 
 <p align="center">
@@ -17,7 +17,7 @@ This painting section showcases my creative journey through:
 Art is not my profession, but my passion something I proudly carry along with my career as a Power BI Developer.
 
 ---
-<h1 align="center">Serenity in Shadows – Buddha Painting</h1>
+<h1 align="center">Serenity in Shadows Buddha Painting</h1>
 
 <p align="center">
   Warm golden tones merge with deep shadows to portray Buddha in a calm, meditative aura. The textured curls and glowing warmth represent inner balance beyond worldly noise.
