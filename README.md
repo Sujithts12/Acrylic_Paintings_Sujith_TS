@@ -47,6 +47,15 @@ Art is not my profession, but my passion something I proudly carry along with my
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_103627.jpg" width="300">
   <br><br>
 
+  <h1 align="center">Queen Of Mysterious On Paper</h1>
+
+<p align="center">
+  This artwork portrays Nagavalli the graceful dancer whose spirit, bound by betrayal and injustice, transforms into a haunting presence.
+Through dramatic shading and expressive eyes, the painting reflects the emotion, rage, and mystery surrounding her timeless legend.
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121810.jpg" width="400">
+  <br><br>
+
 <h1 align="center">Why So Serious?</h1>
 
 <p align="center">
@@ -58,14 +67,7 @@ Art is not my profession, but my passion something I proudly carry along with my
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121642.jpg" width="300">
   <br><br>
 
-<h1 align="center">Queen Of Mysterious On Paper</h1>
 
-<p align="center">
-  This artwork portrays Nagavalli the graceful dancer whose spirit, bound by betrayal and injustice, transforms into a haunting presence.
-Through dramatic shading and expressive eyes, the painting reflects the emotion, rage, and mystery surrounding her timeless legend.
-<p align="center">
-   <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121810.jpg" width="400">
-  <br><br>
 
 
 
