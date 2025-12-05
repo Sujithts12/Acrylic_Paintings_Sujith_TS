@@ -1,11 +1,8 @@
 # 🎨 Sujith's Acrylic & Sketch Art Gallery
 
-Welcome to my personal painting gallery — a creative space where I express emotions, devotion, contrast, and imagination through acrylics and pencil sketches.  
-Art is my hobby, my peaceful zone, and a reflection of my inner world.
+
 <p align="center">
-  I am Sujith T.S, a traditional artist specializing in acrylic painting and sketch art. 
-  My work focuses on realism, expressive detail, and strong visual composition. 
-  This portfolio showcases my ongoing journey in fine arts.
+  Welcome to my personal painting gallery a space where I, Sujith T.S, express emotion, devotion, and imagination through acrylics and pencil sketches, blending realism, expressive detail, and strong visual composition to reflect my inner world and artistic journey.
 </p>
 ---
 
