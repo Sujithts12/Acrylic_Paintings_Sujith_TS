@@ -40,7 +40,7 @@ A pencil sketch of Lord Ganesha gracefully framed against lush leaves and flower
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121716.jpg" width="300">
-<img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121734.jpg" width="300" style="margin-left:10px;">
+<img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG-20250316-WA0004.jpg" width="300" style="margin-left:10px;">
 </p>
 
 ---
