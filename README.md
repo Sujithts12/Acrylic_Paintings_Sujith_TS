@@ -30,6 +30,9 @@ Art is not my profession, but my passion something I proudly carry along with my
 <p align="center">
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121716.jpg" width="300">
   <br><br>
+<h1 Colors of Auspiciousness</h1>
+<p align="center">
+
    <p align="center">
    <img src="https://raw.githubusercontent.com/Sujithts12/Acrylic_Paintings_Sujith_TS/main/IMG_20251205_121734.jpg" width="700">
   <br><br> 
