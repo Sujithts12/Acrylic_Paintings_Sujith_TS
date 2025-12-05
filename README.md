@@ -1,7 +1,7 @@
 <h1 align="center">🎨 Acrylic & Sketch Art Gallery by Sujith T.S 🎨</h1>
 
 <p align="center">
-Welcome to my personal painting gallery a creative space where I, <strong>Sujith T.S</strong>, express emotion, devotion, contrast, and imagination through acrylics and pencil sketches. Each piece blends realism, expressive detail, and strong visual composition, reflecting my inner world and ongoing journey as a self-taught artist.
+Welcome to my personal painting gallery a creative space where I, <strong>Sujith T.S</strong>, express emotion, devotion, contrast, and imagination through acrylics and pencil sketches. Each piece blends realism, expressive detail, and strong visual composition, reflecting my inner world and ongoing journey as a <strong>self-taught artist</strong>.
 </p>
 
 ---
@@ -113,5 +113,5 @@ A minimalistic black-and-white artwork representing harmony between opposites �
 ## 🙏 Thank You
 
 <p align="center">
-Thank you for visiting my gallery. Your support and encouragement mean a lot. If you enjoy my work, feel free to ⭐ the repository or connect with me to discuss art, creativity, or collaboration.
+<strong>Thank you for visiting my Gallery.</strong> 
 </p>
